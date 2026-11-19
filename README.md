@@ -1,4 +1,4 @@
-# Focus
+**Focus**
 - AI Agent Systems
 - LLM Engineering
 - Coding Agent & Tool Execution
